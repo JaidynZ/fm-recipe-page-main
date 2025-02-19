@@ -24,8 +24,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JaidynZ/fm-recipe-page-main)
-- Live Site URL: [Add live site URL here](https://jaidynz.github.io/fm-recipe-page-main/)
+- Live Site URL: [Live Site](https://jaidynz.github.io/fm-recipe-page-main/)
 
 ## My process
 
@@ -47,7 +46,7 @@ I really want to experiment more with variables, I want to see the limits of the
 
 ### Useful resources
 
-- [Styling an <hr>](https://www.w3schools.com/howto/howto_css_style_hr.asp) - This site helped me learn how to style a horizontal rule.
+- [Styling an horizontal rule](https://www.w3schools.com/howto/howto_css_style_hr.asp) - This site helped me learn how to style a horizontal rule.
 
 ## Author
 
