@@ -24,6 +24,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-layout-mobile-first-css-variables-html5-css3-i_r6Nm1p_J)
 - Live Site URL: [Live Site](https://jaidynz.github.io/fm-recipe-page-main/)
 
 ## My process
